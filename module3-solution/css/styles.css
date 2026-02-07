@@ -1,10 +1,50 @@
-.tall-section {
-  height: 1000px;
-  background-color: #f2f2f2;
-  margin-top: 20px;
-  padding: 20px;
+/* Navbar */
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
 }
 
-#mobile-menu {
-  background-color: #ddd;
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5em;
+  color: #333 !important;
+}
+
+/* Dropdown móvil */
+#collapsable-nav {
+  background-color: #fff;
+  border: none;
+  text-align: center;
+}
+
+#nav-list li a {
+  color: #555;
+  border-bottom: 1px solid #E7E7E7;
+}
+
+/* Título Principal */
+h1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+.content-box {
+  background-color: #999999; 
+  padding: 15px;
+  height: 1000px; 
+  margin-bottom: 20px;
+}
+
+/* Título dentro del bloque gris */
+.content-box h2 {
+  margin-top: 0;
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+/* Texto del párrafo */
+.content-box p {
+  font-size: 1.1em;
+  padding: 10px;
 }

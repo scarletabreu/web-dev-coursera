@@ -1,0 +1,10 @@
+.tall-section {
+  height: 1000px;
+  background-color: #f2f2f2;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+#mobile-menu {
+  background-color: #ddd;
+}
